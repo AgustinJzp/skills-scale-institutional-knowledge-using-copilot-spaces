@@ -70,7 +70,7 @@ See [Roles & Personas](octoacme-roles-and-personas.md) for detailed descriptions
 ## Core Documents
 
 | Document | Purpose |
-|----------|---------|
+|----------|----------|
 | [Project Management Overview](octoacme-project-management-overview.md) | Introduction to OctoAcme's approach, roles, and key artifacts |
 | [Project Initiation Guide](octoacme-project-initiation.md) | Steps to validate, authorize, and align on new projects |
 | [Project Planning](octoacme-project-planning.md) | Turn approved initiatives into actionable plans and backlogs |
